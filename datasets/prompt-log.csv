@@ -1,8 +1,0 @@
-prompt_id,prompt_text,intended_use,target_audience,model_used,output_rating,comments
-Prompt 1,"Explain Newton's second law to a 12-year-old, using an everyday analogy.","Educational explanation with analogy","Pre-teens","GPT-4","✅🟡","Clear explanation using a shopping cart, could include a visual component for better engagement"
-Prompt 2,"Explain standard deviation with a simple example for high school students.","Statistical concept explanation","Teenagers","GPT-4","✅🟡","Good use of relatable numbers, needs more emphasis on interpretation"
-Prompt 3,"Explain step by step how to solve a quadratic equation using the general formula. Use clear language appropriate for high school students.","Math problem explanation","High school students","GPT-4","✅🟡","Provides complete breakdown with accessible language, may omit edge cases like imaginary roots"
-Prompt 4,"Create 3 university-level physics problems about simple harmonic motion, each with a detailed solution. Vary the difficulty level.","Exercise creation","Undergraduate physics students","GPT-4 or GPT-3.5","✅🟡","Covers different difficulty tiers and concepts, some calculations need post-checking"
-Prompt 5,"Summarize the following academic text on game theory using accessible language for first-year economics students. Keep the core concepts but simplify the terminology.","Text simplification","Undergraduate students","GPT-4","✅🟡","Successfully distills dense material, might over-simplify some nuanced ideas"
-
-  
